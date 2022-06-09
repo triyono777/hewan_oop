@@ -15,3 +15,7 @@ print(ikan_hiu.nama)
 print(ikan_hiu.habitat)
 ikan_hiu.bernafas()
 ikan_hiu.makan()
+
+print(sapi.bersayap)
+
+print(sapi.__dict__)
